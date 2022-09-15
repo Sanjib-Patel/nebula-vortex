@@ -1,2 +1,2 @@
-# nebula
-UCI chess engine
+# nebula-vortex
+strong UCI chess engine w/nnue
